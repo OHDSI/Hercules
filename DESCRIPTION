@@ -1,0 +1,15 @@
+Package: Hercules
+Type: Package
+Title: Todo
+Version: 1.0
+Date: 2014-08-25
+Author: Jon Duke, Patrick Ryan
+Maintainer: Patrick Ryan <ryan@ohdsi.org>
+LazyData: false
+Description: Todo
+Depends:
+    SqlRender,
+    DatabaseConnector,
+    rjson
+License: Apache License
+Roxygen: list(wrap = TRUE)
